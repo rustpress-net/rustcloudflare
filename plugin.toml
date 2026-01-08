@@ -1,7 +1,7 @@
 [plugin]
 id = "rustcloudflare"
 name = "RustCloudflare"
-version = "1.0.0"
+version = "1.0.1"
 description = "Seamless Cloudflare integration for RustPress - CDN, DNS, Security, Workers, R2, KV, D1, and more"
 author = "RustPress Team"
 author_url = "https://rustpress.io"

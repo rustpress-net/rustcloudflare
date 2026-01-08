@@ -1,6 +1,6 @@
 [package]
 name = "rustcloudflare"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 authors = ["RustPress Team <team@rustpress.io>"]
 description = "Seamless Cloudflare integration for RustPress - CDN, DNS, Security, Workers, R2, KV, D1, and more"
